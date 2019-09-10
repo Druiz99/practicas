@@ -1,0 +1,13 @@
+body{
+    background-color: lightgrey;
+}
+
+img{
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -75px;
+    margin-left: -75px;
+}
